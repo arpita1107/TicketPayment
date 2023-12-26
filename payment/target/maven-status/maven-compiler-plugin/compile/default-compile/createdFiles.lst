@@ -1,0 +1,5 @@
+com\ticketpayment\payment\controller\TicketController.class
+com\ticketpayment\payment\repository\TicketRepository.class
+com\ticketpayment\payment\service\TicketService.class
+com\ticketpayment\payment\entity\Ticket.class
+com\ticketpayment\payment\PaymentApplication.class
